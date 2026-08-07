@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am currently a Ph.D. student in the Department of Statistics at The Chinese University of Hong Kong (CUHK), working under the supervision of Prof. Fan Xiaodan. Prior to my doctoral studies, I received my Master of Science in Data Science and Machine Learning from the National University of Singapore (NUS), and my Bachelor of Science with First Class Honours in Statistics from CUHK. My research interests broadly encompass statistical machine learning and bioinformatics.
+I am currently a Ph.D. student in the Department of Statistics and Data Science at The Chinese University of Hong Kong (CUHK), working under the supervision of Prof. Fan Xiaodan. Prior to my doctoral studies, I received my Master of Science in Data Science and Machine Learning from the National University of Singapore (NUS), and my Bachelor of Science with First Class Honours in Statistics from CUHK. My research interests broadly encompass statistical machine learning and bioinformatics.
 
 <span class='anchor' id='honors-and-awards'></span>
 
