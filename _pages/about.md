@@ -1,4 +1,4 @@
-<img width="819" height="703" alt="image" src="https://github.com/user-attachments/assets/e251acd7-9c62-42d5-a1d4-fc1b9a1545b6" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 
 I am currently a Ph.D. student in the Department of Statistics at The Chinese University of Hong Kong (CUHK), working under the supervision of Prof. Fan Xiaodan. Prior to my doctoral studies, I received my Master of Science in Data Science and Machine Learning from the National University of Singapore (NUS), and my Bachelor of Science with First Class Honours in Statistics from CUHK. My research interests broadly encompass statistical machine learning and bioinformatics.
 
