@@ -15,9 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- 下面这行是为你新增的跳转导航栏 -->
-**[About Me](#about-me)** | **[Honors and Awards](#honors-and-awards)** | **[Education](#education)** | **[Teaching](#teaching)** | **[Contact](#contact)**
-
 <span class='anchor' id='about-me'></span>
 
 # About Me
