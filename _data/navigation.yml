@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About Me"
-    url: /#about-me
-
+    url: "#about-me"
+    
   - title: "Teaching"
-    url: /#teaching
+    url: "#teaching"
 
   - title: "Contact"
-    url: /#contact
+    url: "#contact"
