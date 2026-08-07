@@ -21,24 +21,24 @@ redirect_from:
 I am currently a Ph.D. student in the Department of Statistics at The Chinese University of Hong Kong (CUHK), working under the supervision of Prof. Fan Xiaodan. Prior to my doctoral studies, I received my Master of Science in Data Science and Machine Learning from the National University of Singapore (NUS), and my Bachelor of Science with First Class Honours in Statistics from CUHK. My research interests broadly encompass statistical machine learning and bioinformatics.
 
 # Honors and Awards
-- Hong Kong PhD Fellowship Scheme 2026/27
-- CUHK Vice-Chancellor’s PhD Scholarship
-- Dean’s List
-- Department of Statistics Scholarship
-- Morningside College Master's List
-- Morningside College Scholarship
+- **Hong Kong PhD Fellowship Scheme** \hfill *2026/27*
+- **CUHK Vice-Chancellor’s PhD Scholarship**
+- **Dean’s List**
+- **Department of Statistics Scholarship**
+- **Morningside College Master's List**
+- **Morningside College Scholarship**
 
-# Educations
+# Education
 - *2026.08 - Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong, Hong Kong.
 - *2025.08 - 2026.07*, Master of Science in Data Science and Machine Learning, National University of Singapore, Singapore. 
-- *2021.09 - 2025.07*, Bachelor of Science in Statistics(First Class Honours), The Chinese University of Hong Kong, Hong Kong.
+- *2021.09 - 2025.07*, Bachelor of Science in Statistics (First Class Honours), The Chinese University of Hong Kong, Hong Kong.
 
-# Work Experience
-- NUS Business School, National University of Singapore.
-- JC School of Public Health and Primary Care, The Chinese University of Hong Kong.
-- Multimedia Laboratory (MMLab), The Chinese University of Hong Kong. 
+# Publications
+- *Under review *.
+  
+# Teaching
 
 # Contact
-Email: xyzeng[at]link.cuhk.edu.hk
-Address: G26, Lady Shaw Building, CUHK
-Phone Number: 3943 8528
+- **Email:** xyzeng[at]link.cuhk.edu.hk
+- **Address:** G26, Lady Shaw Building, CUHK
+- **Phone:** 3943 8528
