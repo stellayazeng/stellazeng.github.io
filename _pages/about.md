@@ -23,16 +23,16 @@ I am currently a Ph.D. student in the Department of Statistics at The Chinese Un
 # 🎖 Honors and Awards
 - *2026.4* Hong Kong PhD Fellowship Scheme 2026/27
 - *2026.2* CUHK Vice-Chancellor’s PhD Scholarship
-- *2025.6* Dean’s List, CUHK
-- *2024.12* Department of Statistics Scholarship, CUHK
-- *2024.12* Morningside College Master's List, CUHK
-- *2024.6* Dean’s List, CUHK
-- *2024.4* Department of Statistics Scholarship, CUHK
-- *2023.12* Morningside College Scholarship, CUHK
-- *2023.12* Morningside College Master's List, CUHK
-- *2023.6* Dean’s List, CUHK
-- *2022.12* Morningside College Scholarship, CUHK 
-- *2022.12* Morningside College Master's List, CUHK
+- *2025.6* Dean’s List
+- *2024.12* Department of Statistics Scholarship
+- *2024.12* Morningside College Master's List
+- *2024.6* Dean’s List
+- *2024.4* Department of Statistics Scholarship
+- *2023.12* Morningside College Scholarship
+- *2023.12* Morningside College Master's List
+- *2023.6* Dean’s List
+- *2022.12* Morningside College Scholarship
+- *2022.12* Morningside College Master's List
   
 # 📖 Educations
 - *2026.08 - Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong, Hong Kong.
