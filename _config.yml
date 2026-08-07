@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiangyu Zeng(Stella)"
 description              : "PhD Student"
-repository               : "stellayazeng.github.io"
+repository               : "stellazeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiangyu Zeng"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/xyzeng.png"
   bio              : "The Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
