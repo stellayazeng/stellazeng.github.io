@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiangyu Zeng(Stella)"
 description              : "PhD Student"
-repository: stellayazeng/stellazeng.github.io
+repository: "stellayazeng/stellazeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
