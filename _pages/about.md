@@ -21,12 +21,12 @@ redirect_from:
 I am currently a Ph.D. student in the Department of Statistics at The Chinese University of Hong Kong (CUHK), working under the supervision of Prof. Fan Xiaodan. Prior to my doctoral studies, I received my Master of Science in Data Science and Machine Learning from the National University of Singapore (NUS), and my Bachelor of Science with First Class Honours in Statistics from CUHK. My research interests broadly encompass statistical machine learning and bioinformatics.
 
 # Honors and Awards
-- **Hong Kong PhD Fellowship Scheme** \hfill *2026/27*
-- **CUHK Vice-Chancellor’s PhD Scholarship**
-- **Dean’s List**
-- **Department of Statistics Scholarship**
-- **Morningside College Master's List**
-- **Morningside College Scholarship**
+- Hong Kong PhD Fellowship Scheme 2026/27
+- CUHK Vice-Chancellor’s PhD Scholarship
+- Dean’s List
+- Department of Statistics Scholarship
+- Morningside College Master's List
+- Morningside College Scholarship
 
 # Education
 - *2026.08 - Present*, Doctor of Philosophy in Statistics, The Chinese University of Hong Kong, Hong Kong.
